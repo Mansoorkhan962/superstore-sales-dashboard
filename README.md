@@ -29,7 +29,7 @@ This project focuses on understanding sales, profitability, regional performance
 
 | File | Description |
 |---|---|
-| `superstore_sales-dashboard.xlsx` | Main Excel dashboard workbook |
+| `superstore_sales_dashboard.xlsx` | Main Excel dashboard workbook |
 
 ## 🚀 How to Use
 
